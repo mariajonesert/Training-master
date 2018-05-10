@@ -381,18 +381,8 @@ namespace TestTeamAutomationFrameNew.Training
 
         }
 
-        
-    
-
-        [TearDown]
-        public void TearDown()
-        {
-
-            //TrainingFunctions.ClearArray();
-            
 
         }
+        }
 
-    }
 
-}

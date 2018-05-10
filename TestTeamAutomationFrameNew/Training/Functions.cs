@@ -179,7 +179,10 @@ namespace TestTeamAutomationFrameNew.Training
 
         }
 
-
+        public static int NumberEntered(int number)
+        {
+            return number;
+        }
 
 
     }
